@@ -1,0 +1,12 @@
+Assignment 1: APIs and Data Visualisation
+- Extrated exoplanet data from NASA's open API portal
+- Cleaned data
+- Analysed data
+- Created visualisations
+
+Assignment 2: Web scraping and ML
+- Scraped web reviews for three types of businesses (cafes, restaurants, and salons)
+- Applied preprocessing steps
+- Created Naive-Bayes model to determine whether the reviews were positive or negative
+- Tested predictions and evaluated accuracy of the model
+- Cross-tested accuracy of model over the three categories
